@@ -4,6 +4,7 @@ They are Lippor Karawaci (LPKE), Bumi Serpong Damai (BSDE), Pakuwon (PWON), and 
 
 ## Results
 Below are some pictures of the website that contains some fundamental of every stock.
+
 [Result 1](results/res1.png)
 
 [Result 2](results/res2.png)
